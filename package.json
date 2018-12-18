@@ -15,7 +15,7 @@
   "main": "./lib",
   "dependencies": {
     "@azure/storage-blob": "^10.2.0-preview",
-    "sharp": "^0.21.1"
+    "jimp": "^0.6.0"
   },
   "strapi": {
     "isProvider": true
